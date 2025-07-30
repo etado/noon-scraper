@@ -1,0 +1,30 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files (if used)
+.env
+.venv/
+env/
+venv/
+
+# Output files
+*.csv
+*.html
+
+# Driver and executables
+chromedriver.exe
+
+# Logs
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
